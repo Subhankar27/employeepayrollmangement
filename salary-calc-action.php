@@ -138,7 +138,7 @@ session_start();
                             print "<tr> <td>Final Salary</td><td>";    
                             echo $sal; 
                             print "</td></tr>";
-                            print "<tr> <td>Number of Leave</td><td>";    
+                            print "<tr> <td>Tax Slab</td><td>";    
                             echo $leav; 
                             print "</td></tr></table>";
 
